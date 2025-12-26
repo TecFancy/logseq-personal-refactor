@@ -15,7 +15,7 @@
  ;; Exclude directories/files.
  ;; Example usage:
  ;; :hidden ["/archived" "/test.md" "../assets/archived"]
- :hidden ["excalidraw-plugin-library" "excalidraw-library-items-storage"]
+ :hidden []
 
  ;; Define the default journal page template.
  ;; Enter the template name between the quotes.
@@ -420,6 +420,6 @@
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :graph/settings {:journal? false
- :builtin-pages? false
- :excluded-pages? false
+ :builtin-pages? true
+ :excluded-pages? true
  :orphan-pages? true}}
