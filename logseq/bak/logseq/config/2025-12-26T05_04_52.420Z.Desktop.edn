@@ -15,7 +15,7 @@
  ;; Exclude directories/files.
  ;; Example usage:
  ;; :hidden ["/archived" "/test.md" "../assets/archived"]
- :hidden ["/pages/excalidraw-plugin-library.md" "/pages/excalidraw-library-items-storage.md"]
+ :hidden []
 
  ;; Define the default journal page template.
  ;; Enter the template name between the quotes.
@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites []
+ :favorites ["area" "project"]
 
  ;; Set flashcards interval.
  ;; Expected value:
