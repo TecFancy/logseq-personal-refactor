@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["Resource" "project" "area"]
+ :favorites ["project" "area" "resource" "archive"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -420,6 +420,6 @@
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :graph/settings {:journal? false
- :builtin-pages? false
+ :builtin-pages? true
  :excluded-pages? true
  :orphan-pages? true}}

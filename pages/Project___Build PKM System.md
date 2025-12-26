@@ -18,7 +18,7 @@ related:: [[Area/KM]]
 - **参考资料库**
 	- *图书*
 		- [[Book/How to Take Smart Notes]] (重点：理解原子化笔记与双链)
-		- [[Book/Build a Second Brain]]
+		- [[Book/Build a Second Brain]] (重点：理解 PARA 结构)
 - **融合思考**
 	- *在这里对比不同方法论的异同。*
 - **聚合任务**
