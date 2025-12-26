@@ -1,0 +1,4 @@
+- *Linking Your Thinking*
+- **核心理念：** **MOC (Map of Content)**。不要让笔记在大海里漂，要建立“港口”（Home Note）。
+- **与 JDD 的联系：** JDD 的终点是 Area，Area 的具体形态就是 MOC。
+- **对比点：** JDD 强调“写的时候不要有压力（日记流）”，LYT 强调“读的时候要有导航（地图）”。**两者结合就是：写入时用 JDD，整理时用 MOC。**

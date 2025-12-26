@@ -10,11 +10,15 @@ related:: [[Area/KM]]
 	- 阶段二：组织
 		- 看《第二大脑》的 PARA 怎么分文件夹。
 		- 看 Logseq 社区如何用 Tags 替代文件夹 (Namespaces)。
-		- 产出：确定
+		- 产出：确定 Namespaces 白名单。
 	- 阶段三：提炼
+		- 看《卡片笔记》如何把“文献笔记”转为“永久笔记”。
+		- 看 Nick Milo 如何构建 MOC。
+		- 产出：尝试建立第一个 Area (如 KM) 的 MOC 页面。
 - **参考资料库**
 	- *图书*
 		- [[Book/How to Take Smart Notes]] (重点：理解原子化笔记与双链)
+		- [[Book/Build a Second Brain]]
 - **融合思考**
 	- *在这里对比不同方法论的异同。*
 - **聚合任务**

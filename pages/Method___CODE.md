@@ -1,0 +1,4 @@
+- **与 JDD 的联系：**
+	- **Capture (捕获):** 对应 JDD 的 Journal Input。
+	- **Distill (提炼):** 对应 JDD 的 Refactor (重构到 Area)。
+- **对比点：** 卢曼（卡片笔记）是学者，追求知识的网状连接；Forte 是项目经理，追求任务的高效交付。**你是工程师，你需要 Forte 的结构（PARA）来管理项目，需要卢曼的深度（Zettelkasten）来钻研技术。**

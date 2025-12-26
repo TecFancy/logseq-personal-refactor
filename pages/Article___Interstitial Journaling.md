@@ -1,0 +1,4 @@
+- **核心理念：** 在从一个任务切换到下一个任务的“间隙”，记录下当前的时间、上一项任务的收尾、下一项任务的计划。
+- **与 JDD 的联系：** 这就是 Logseq Journal 模式的鼻祖。
+- **对比点：** 《卡片笔记》强调记录“知识”，《间歇式日记》强调记录“状态”和“上下文”。你需要结合两者：**在日记里既记状态（工作流），也记知识（闪念）。**
+- **推荐搜索：** "Interstitial Journaling Tony Stubblebine" 或 "Logseq Interstitial Journaling Workflow".
