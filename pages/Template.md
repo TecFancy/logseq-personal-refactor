@@ -1,0 +1,1 @@
+tags:: [[Resource/Template]]

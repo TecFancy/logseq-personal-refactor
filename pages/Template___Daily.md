@@ -1,8 +1,7 @@
-tags:: [[Resource/Template]]
-
-- ## Daily Template
-  template:: Daily
-  template-including-parent:: false
+## Daily Template
+template:: Daily
+template-including-parent:: false
+collapsed:: true
 	- 💼 Work
 		- 📥 Inbox & Capture
 			-
@@ -23,6 +22,7 @@ tags:: [[Resource/Template]]
 			-
 - ---
 - ## 📖 Daily Template 使用说明书 (SOP)
+  collapsed:: true
 	- **适用场景** 每天早上开始工作前 (按需删除 Work 模块)。
 	- **核心心法**:
 		- **抓大放小**：只记录关键产出，不要记流水账。
