@@ -1,6 +1,7 @@
 ## Daily Template
 template:: Daily
 template-including-parent:: false
+collapsed:: true
 	- 💼 Work
 		- 📥 Inbox & Capture
 			-
