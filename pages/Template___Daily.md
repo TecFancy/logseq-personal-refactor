@@ -7,7 +7,7 @@ tags:: [[Resource/Template]]
 		- 📥 Inbox & Capture
 			-
 		- 🤝 Meetings
-			- 09:15 BPM-A(Team2) daily stdup #[[Meeting/Daily Standup]]
+			- 09:15 BPM-A(Team2) daily stdup #[[Meeting/Standup]]
 		- 💻 Coding
 			-
 		- 📝 Writing & Docs
