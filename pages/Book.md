@@ -1,1 +1,1 @@
-tags:: [[Resource/Book]]
+tags:: [[Resource]]

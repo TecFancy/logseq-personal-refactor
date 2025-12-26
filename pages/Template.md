@@ -1,3 +1,3 @@
-tags:: [[Resource/Template]]
+tags:: [[Resource]]
 
 - **模版**：系统功能性页面，为了输入效率提升至顶级。

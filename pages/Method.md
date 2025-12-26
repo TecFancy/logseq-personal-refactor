@@ -1,1 +1,1 @@
-tags:: [[Resource/Method]]
+tags:: [[Resource]]

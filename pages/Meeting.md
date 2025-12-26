@@ -1,3 +1,3 @@
-tags:: [[Resource/Meeting]]
+tags:: [[Resource]]
 
 - **会议**：标准活动组件，为了输入效率提升至顶级。
