@@ -2,6 +2,16 @@ related:: [[Area/KM]]
 
 - **目标**
 	- 构建一套基于 Logseq 的 JDD + PARA 知识管理工作流。
+- **计划**
+	- 阶段一：输入
+		- 看《卡片笔记》如何做“闪念笔记”。
+		- 搜《间歇式日记》如何做“任务切换记录”。
+		- 产出：优化 Daily Template。
+	- 阶段二：组织
+		- 看《第二大脑》的 PARA 怎么分文件夹。
+		- 看 Logseq 社区如何用 Tags 替代文件夹 (Namespaces)。
+		- 产出：确定
+	- 阶段三：提炼
 - **参考资料库**
 	- *图书*
 		- [[Book/How to Take Smart Notes]] (重点：理解原子化笔记与双链)
@@ -9,4 +19,4 @@ related:: [[Area/KM]]
 	- *在这里对比不同方法论的异同。*
 - **聚合任务**
 	- *自动抓取所有相关资源的 TODO*
-	- {{query (and (task TODO DOING) (or [[Project/Build-PKM-System]] [[Book/卡片笔记写作法]] [[Book/Building-a-Second-Brain]]))}}
+	-
