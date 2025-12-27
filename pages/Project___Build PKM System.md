@@ -1,4 +1,4 @@
-related:: [[Area/KM]]
+related-area:: [[Area/KM]]
 
 - **目标**
 	- 构建一套基于 Logseq 的 JDD + PARA 知识管理工作流。
