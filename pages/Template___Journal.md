@@ -1,5 +1,5 @@
 ## Daily Template
-template:: Daily
+template:: Journal
 template-including-parent:: false
 collapsed:: true
 	- 💼 Work
