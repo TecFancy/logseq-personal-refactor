@@ -3,3 +3,4 @@
 	- 形态：Query (查询) 主导。
 	- 原则：不要手动维护。
 	- 内容：“活”的，内容随 Journal 的输入自动更新。
+- {{query (and (page-property status "DOING") (namespace "Project"))}}

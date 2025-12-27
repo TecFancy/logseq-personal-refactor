@@ -1,3 +1,4 @@
+status:: [[DOING]]
 related-area:: [[Area/KM]]
 
 - **目标**
