@@ -1,2 +1,2 @@
 ## Quick Access
-	- [[SOP]] | [[Meeting]] | [[Template]]
+	- [[Activity]] | [[SOP]] | [[Meeting]] | [[Template]]
