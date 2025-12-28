@@ -1,28 +1,28 @@
-## Daily Template
+## Journal Template
 template:: Journal
 template-including-parent:: false
-collapsed:: true
-	- 💼 Work
-		- 📥 Inbox & Capture
+	- **🌞 Morning Routine**
+		- TODO ☀️ 启动仪式：清空 Inbox + 检查 Project 看板
+	- **💼 Work**
+		- **📥 Inbox** (临时暂存，记得清空)
 			-
-		- 🤝 Meetings
+		- **🤝 Meetings**
 			- 09:15 BPM-A(Team2) daily stdup #[[Meeting/Standup]]
-		- 💻 Coding
+		- **💻 Coding & Execution**
+			- *Tip: 记得关联 `[[Project/Name]]`*
 			-
-		- 📝 Writing & Docs
+		- **💡 TIL (Today I Learned)**
+			- *Context:* `#BugFix`, `#Snippet`
 			-
-		- 💡 Today I Learned
+	- **🏠 Personal**
+		- **📥 Inbox**
 			-
-	- 👨‍💻‍ Personal
-		- 📥 Inbox & Capture
+		- **📚 Learning & Dev** (阅读、独立开发)
 			-
-		- 📚 Reading & Learning
-			-
-		- 🚀 Indie Dev
-			-
+	- **🌙 Evening Review**
+		- TODO 🌜 关机仪式：更新 Project 状态 + 这里不留未完成的任务 (Move to tomorrow)
 - ---
 - ## 📖 Daily Template 使用说明书 (SOP)
-  collapsed:: true
 	- **适用场景** 每天早上开始工作前 (按需删除 Work 模块)。
 	- **核心心法**:
 		- **抓大放小**：只记录关键产出，不要记流水账。
