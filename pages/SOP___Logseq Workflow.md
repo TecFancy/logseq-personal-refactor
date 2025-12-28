@@ -31,9 +31,13 @@ status:: [[DOING]]
 		- 必须遵循：`时间 + 行为 + [[Project]] + #Context` 的格式。
 		- *示例*: `- 14:00 修复登录 Bug [[Project/Refactor-Auth]] #React`
 	- **✨ 动作标签策略 (Activity Tags)**:
-		- 创建顶级页面 `[[Activity]]` 并设置 `tags:: [[Resource]]`。
-		- 具体动作（如 `[[Coding]]`）扁平创建，设置 `tags:: [[Activity]]`。
+		- 机制: 顶级页面 `[[Activity]]` -> `tags:: [[Resource]]`；具体动作 -> `tags:: [[Activity]]`。
+		- 核心动作库 (White List):
+			- *Work/Tech*: `[[Coding]]`, `[[Designing]]`, `[[Review]]`
+			- *General*: `[[Reading]]`, `[[Writing]]`, `[[Planning]]`
+			- *Life/Growth*: `[[Health]]` (健康), `[[Finance]]` (财务), `[[LifeAdmin]]` (杂务), `[[Social]]` (社交)
 		- 在日记中直接使用 `#Coding` 等标签，利用继承关系保持图谱连通。
+		- *注意*: 除非绝对必要，不要新增动作 Tag，保持统计维度的稳定。
 - ## Output Instruction (输出指令)
 	- **直接输出代码**: 不要寒暄，直接提供处理后的 Markdown 代码块。
 	  logseq.order-list-type:: number
