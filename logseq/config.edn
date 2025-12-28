@@ -422,4 +422,5 @@
  :graph/settings {:journal? false
  :builtin-pages? false
  :excluded-pages? true
- :orphan-pages? true}}
+ :orphan-pages? true}
+ :graph/forcesettings {:link-dist 70}}
