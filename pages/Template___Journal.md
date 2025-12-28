@@ -1,25 +1,25 @@
 ## Journal Template
 template:: Journal
 template-including-parent:: false
-	- **🌞 Morning Routine**
+	- 🌞 Morning Routine
 		- TODO ☀️ 启动仪式：清空 Inbox + 检查 Project 看板
-	- **💼 Work**
-		- **📥 Inbox** (临时暂存，记得清空)
+	- 💼 Work
+		- 📥 Inbox (临时暂存，记得清空)
 			-
-		- **🤝 Meetings**
+		- 🤝 Meetings
 			- 09:15 BPM-A(Team2) daily stdup #[[Meeting/Standup]]
-		- **💻 Coding & Execution**
+		- 💻 Coding & Execution
 			- *Tip: 记得关联 `[[Project/Name]]`*
 			-
-		- **💡 TIL (Today I Learned)**
+		- 💡 TIL (Today I Learned)
 			- *Context:* `#BugFix`, `#Snippet`
 			-
-	- **🏠 Personal**
-		- **📥 Inbox**
+	- 🏠 Personal
+		- 📥 Inbox
 			-
-		- **📚 Learning & Dev** (阅读、独立开发)
+		- 📚 Learning & Dev (阅读、独立开发)
 			-
-	- **🌙 Evening Review**
+	- 🌙 Evening Review
 		- TODO 🌜 关机仪式：更新 Project 状态 + 这里不留未完成的任务 (Move to tomorrow)
 - ---
 - ## 📖 Daily Template 使用说明书 (SOP)

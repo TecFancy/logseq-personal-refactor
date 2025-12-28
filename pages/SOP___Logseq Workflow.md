@@ -15,7 +15,7 @@ status:: [[DOING]]
 	- **命名空间白名单**:
 	  logseq.order-list-type:: number
 		- **PARA 基础**: `[[Project/]]`, `[[Area/]]`, `[[Resource/]]`, `[[Archive/]]`
-		- **高频实体**: `[[Book/]]`, `[[Course/]]`, `[[Meeting/]]`, `[[Template/]]`, `[[SOP/]]`
+		- **高频实体**: `[[Book/]]`, `[[Course/]]`, `[[Meeting/]]`, `[[Template/]]`, `[[SOP/]]`, `[[Activity]]`
 		- **技术辅助**: `[[Method/]]` (通用方法/模式), `[[Tool/]]` (具体软件工具)
 		- *注意*: 严禁在前述白名单之外创建新的根目录（如不要创建 `React/` 或 `Backend/`）。
 - ## 🏷️ Naming & Strategy (命名与策略)
@@ -30,6 +30,10 @@ status:: [[DOING]]
 	  	  logseq.order-list-type:: number
 		- 必须遵循：`时间 + 行为 + [[Project]] + #Context` 的格式。
 		- *示例*: `- 14:00 修复登录 Bug [[Project/Refactor-Auth]] #React`
+	- **✨ 动作标签策略 (Activity Tags)**:
+		- 创建顶级页面 `[[Activity]]` 并设置 `tags:: [[Resource]]`。
+		- 具体动作（如 `[[Coding]]`）扁平创建，设置 `tags:: [[Activity]]`。
+		- 在日记中直接使用 `#Coding` 等标签，利用继承关系保持图谱连通。
 - ## Output Instruction (输出指令)
 	- **直接输出代码**: 不要寒暄，直接提供处理后的 Markdown 代码块。
 	  logseq.order-list-type:: number
