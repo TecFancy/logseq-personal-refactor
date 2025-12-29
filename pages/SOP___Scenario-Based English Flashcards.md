@@ -37,14 +37,13 @@
 		- 利用 Logseq 的 `Flashcards` 功能进行主动回忆，执行 **“3秒反应环”**：
 			- **Recall (回想)**：看到正面的 `[场景] 意图`，必须在 **3秒内** 大声说出英文。
 			  logseq.order-list-type:: number
-			- *卡顿或错误？* -> 标记为 `Hard` / `Again`。
-			  logseq.order-list-type:: number
+				- *卡顿或错误？* -> 标记为 `Hard` / `Again`。
 			- **Shadow (跟读)**：翻开背面，大声朗读英文表达 **3遍**，尽量模仿原声语调。
 			  logseq.order-list-type:: number
 			- **Generate (生成)**：**最关键的一步！** 阅读 `💡 Tips` 后，立刻结合自己的生活实际，用这个表达**造一个新句子**。
 			  logseq.order-list-type:: number
 - ## 4. Maintenance (维护与归档)
-  * **Weekly Review (周回顾)**：浏览 `[[Area/English Skills]]` 或你的 `[[Source]]` 页面。
-    * **Refactor (重构)**：合并相似的卡片（例如将所有关于“婉拒”的表达聚合在一起）。
-    * **Link (连接)**：使用 `[[Topic]]` 双链将新卡片关联到已有的知识网络中。
-  * **Archive (归档)**：当一个 `[[Project]]`（如某门课程）结束时，将其移动到 `[[Archive]]`，但保留 `#card` 标签，确保它们依然会出现在你的每日复习队列中。
+	- **Weekly Review (周回顾)**：浏览 `[[Area/English Skills]]` 或你的 `[[Source]]` 页面。
+		- **Refactor (重构)**：合并相似的卡片（例如将所有关于“婉拒”的表达聚合在一起）。
+		- **Link (连接)**：使用 `[[Topic]]` 双链将新卡片关联到已有的知识网络中。
+		- **Archive (归档)**：当一个 `[[Project]]`（如某门课程）结束时，将其移动到 `[[Archive]]`，但保留 `#card` 标签，确保它们依然会出现在你的每日复习队列中。
