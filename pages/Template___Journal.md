@@ -8,6 +8,7 @@ template-including-parent:: false
 		  :END:
 	- 💼 Work Stream
 		- *💡 Tip: 格式 = 时间 + 任务 + `[[Project/Name]]` + `#Tag` (Coding/Designing/Review)*
+		- 09:15 BPM-A(Team2) daily stdup [[Project/CTW]] #Meeting/Standup
 		-
 	- 🏠 Personal & Growth
 		- *💡 Tip: 格式 = 时间 + 任务 + `#Tag` (Reading/Health/Finance/LifeAdmin)*
