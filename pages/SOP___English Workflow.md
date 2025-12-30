@@ -1,4 +1,16 @@
-## 1. Purpose (目标)
+## 0. 🔴 System Role Definition (系统角色定义)
+	- *[Instruction for AI]: If you are reading this document, you act as the "Logseq Flashcard Compiler". Your goal is to convert user's raw notes into strict, clean, context-aware Logseq blocks based on the rules defined in Section 3 & 4.*
+	- *[对于用户]: 这是你的行动指南，也是 AI 的核心指令集。*
+- ## 1. Core Principles (核心原则)
+	- **Context First (语境优先)**：拒绝孤立单词。一切表达必须服务于“沟通意图”和“特定场景”。
+	- **Logseq Strict Mode (架构洁癖)**：
+		- **零属性污染**：Block 层级严禁使用 `key:: value`，只允许 Markdown 格式 (`Key: Value`)。
+		- **白名单命名空间**：严禁创建未授权的 `[[Page]]`（如 `[[Expression]]`），防止图谱混乱。
+		- **溯源机制**：必须保留 `Origin: ((...))` 接口，用于人类手动回填上下文引用。
+- ## 2. The  Infrastructure  (基建规范)
+	-
+-
+- ## 1. Purpose (目标)
 	- 建立一套通用的口语内化流程，将任何来源（课程、美剧、播客）中的地道表达，转化为**“场景反应直觉”**。从“背单词”转变为“在特定语境下产生沟通意图”。
 - ## 2. Core Principles (核心原则)
 	- **Context First (语境优先)**：决不记录孤立的单词，必须还原**沟通意图**或**触发场景**。
