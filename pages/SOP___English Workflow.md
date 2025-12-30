@@ -8,54 +8,73 @@
 		- **白名单命名空间**：严禁创建未授权的 `[[Page]]`（如 `[[Expression]]`），防止图谱混乱。
 		- **溯源机制**：必须保留 `Origin: ((...))` 接口，用于人类手动回填上下文引用。
 - ## 2. The  Infrastructure  (基建规范)
-	-
--
-- ## 1. Purpose (目标)
-	- 建立一套通用的口语内化流程，将任何来源（课程、美剧、播客）中的地道表达，转化为**“场景反应直觉”**。从“背单词”转变为“在特定语境下产生沟通意图”。
-- ## 2. Core Principles (核心原则)
-	- **Context First (语境优先)**：决不记录孤立的单词，必须还原**沟通意图**或**触发场景**。
-	- **Output Oriented (输出导向)**：闪卡正面必须是“我想表达什么（意图）”，而非“这个英文是什么意思（翻译）”。
-	- **Atomic Design (原子化)**：一张卡片只解决一个具体的沟通痛点。
-- ## 3. The Workflow (CODE System)
-	- ### 3.1 Capture (收集)
-	- **Trigger (触发时机)**：当你在任何材料中遇到觉得“地道”、“没想到可以这样说”或“解决了某个沟通卡点”的句子时。
-	- **Action (动作)**：
-		- 在当天的 `Journal` 或具体的 `[[Source/来源页]]`（如 `[[Course/Fluent English]]`）中快速记录。
-		- **必填**：复制英文原句 + 简要备注当时的语境（谁对谁说，为了什么）。
-	- ### 3.2 Organize (整理/归位)
-	- 遵循 **PARA** 法则确定卡片存放位置：
-		- **Projects (项目)**：用于有明确进度或截止日期的课程（如 `[[Project/Business English Course]]`）。
-		- **Areas (领域)**：用于长期技能积累（如 `[[Area/English Skills]]` 或 `[[Area/Vocabulary]]`）。
-		- **Resources (资源)**：用于被动消费的素材（如 `[[Resource/Ted Talks]]`, `[[Book/Atomic Habits]]`）。
-	- ### 3.3 Distill (提炼/制卡)
-		- 将原始笔记转化为符合 Logseq 格式的**标准场景闪卡**。
-		- #### Flashcard Structure (卡片结构模板)
+	- ### 2.1 Namespace Whitelist (命名空间白名单)
+		- 仅允许链接以下层级页面，维护 P.A.R.A. 结构：
+			- `[[Project/Name]]` (短期项目)
+			- `[[Area/English]]` (长期领域)
+			- `[[Resource/Title]]` (输入来源，如美剧名)
+			- `[[Archive/Name]]` (归档)
+	- ### 2.2 Tagging Strategy (场景标签策略)
+		- 使用以下固定前缀标记卡片正面（Intent），加速大脑索引：
+			- `[Emotion]` (情绪表达)
+			- `[Social]` (社交客套/潜台词)
+			- `[Work]` (职场/开发协作)
+			- `[Logic]` (逻辑连接/论述)
+			- `[Idiom]` (习语/地道梗)
+- ## 3. The Workflow ( SOP  执行流程)
+	- ### Phase 1: Capture (极速收集)
+		- **Trigger**: 在浏览信息时遇到想学的表达。
+		- **Action**: 在 Logseq `Journal` 中记录。
+		- **Format**: `- HH:MM Raw Note [[Area/English Skills]] #Reading`
+		- 子块: `raw_expression (context)`
+		- **Example**:
 			- ```md
-			  - **[场景标签] 具体的沟通意图/中文描述** #card
-			  	- **Target English Expression (地道表达)**
-			  	- **💡 Tips & Nuance (技巧与解析)**：
-			  		- **Why (选词逻辑)**：为什么用这个词？（例如 `letdown` vs `disappointment` 的区别）。
-			  		- **Usage (用法)**：搭配、时态、语体（正式/随意）。
-			  		- **Context (语境)**：（可选）记录原文的出处背景。
+			  - 10:00 English Note [[Project/Learning English]] #Reading
+			    - drop the ball (同事搞砸了项目)
 			  ```
-		- #### Scenario Tags Standardization (场景标签规范)
-			- 使用固定的前缀来加速大脑的索引分类（建议按需建立自己的标签组）：
-				- `[Emotion]` (情绪：开心、失望、愤怒...)
-				- `[Social]` (社交：打招呼、道别、邀请、拒绝...)
-				- `[Opinion]` (观点：同意、反对、夸奖、吐槽...)
-				- `[Logic]` (逻辑：解释原因、总结、转折...)
-				- `[Work]` (职场：会议、邮件、汇报...)
-		- ### 3.4 Express (内化/复习)
-			- 利用 Logseq 的 `Flashcards` 功能进行主动回忆，执行 **“3秒反应环”**：
-				- **Recall (回想)**：看到正面的 `[场景] 意图`，必须在 **3秒内** 大声说出英文。
-				  logseq.order-list-type:: number
-					- *卡顿或错误？* -> 标记为 `Hard` / `Again`。
-				- **Shadow (跟读)**：翻开背面，大声朗读英文表达 **3遍**，尽量模仿原声语调。
-				  logseq.order-list-type:: number
-				- **Generate (生成)**：**最关键的一步！** 阅读 `💡 Tips` 后，立刻结合自己的生活实际，用这个表达**造一个新句子**。
-				  logseq.order-list-type:: number
-- ## 4. Maintenance (维护与归档)
-	- **Weekly Review (周回顾)**：浏览 `[[Area/English Skills]]` 或你的 `[[Source]]` 页面。
-		- **Refactor (重构)**：合并相似的卡片（例如将所有关于“婉拒”的表达聚合在一起）。
-		- **Link (连接)**：使用 `[[Topic]]` 双链将新卡片关联到已有的知识网络中。
-	- **Archive (归档)**：当一个 `[[Project]]`（如某门课程）结束时，将其移动到 `[[Archive]]`，但保留 `#card` 标签，确保它们依然会出现在你的每日复习队列中。
+	- ### Phase 2: Distill (AI 编译) 🤖  *[AI Task]*
+		- **Action**: 用户将 "Raw Note" 发送给 AI。
+		- **AI Processing Logic**:
+			- **Analyze**: 理解语境和沟通意图（Intent）。
+			- **Format**: 转化为符合 **Section 4** 严格标准的 Markdown 代码块。
+			- **Output**: 直接输出代码，不废话。
+	- ### Phase 3: Link & Express (回填与内化)
+		- **Action**:
+			- 用户将 AI 生成的代码块粘贴回 Logseq。
+			- **关键步骤**: 复制原文对话/视频时间戳的 Block Ref，填入 `Origin: ((...))`。
+			- **Loop**:
+				- **Recall**: 看正面中文 -> 3秒说英文。
+				- **Verify**: 结合 Tips 和 Origin 上下文，尝试造句（可让 AI 校验）。
+- ## 4. 🚫 Compiler Output Rules (AI 输出严格规范)
+	- *[Instruction for AI]: When generating flashcards, you MUST strictly follow these formatting rules. Violations (especially using `::` properties) are not allowed.*
+	- ### Rule 1: Hierarchy & Syntax
+		- **Parent Block**: Must describe the **Chinese Intent** (What I want to say), NOT the translation.
+			- Format: `**[Tag] Chinese_Intent_Description** #card`
+		- **Child Blocks**: Use indentation strictly.
+		- **Metadata**: Use `Key: Value` (Markdown), **NEVER** use `key:: value` (Logseq Property).
+	- ### Rule 2: Content Structure (Template)
+		- Generate the output using this EXACT structure:
+			- ```md
+			  - **[Tag] Chinese_Intent_Description** #card
+			    - **Target English Expression**
+			    - Origin: ((paste_block_ref_here))
+			    - 💡 **Nuance & Tips**
+			      - **Why:** (Explain why this word is chosen over synonyms, kept concise)
+			      - **Usage:** (Register, tone, or grammar patterns)
+			    - 🗣️ **Example**
+			      - (One natural sentence fitting the user's context/role as a developer)
+			  ```
+	- ### Rule 3: Anti-pollution (防污染)
+		- **User Input:**
+			- "I don't think we can meet the deadline. (Context: 前端开发跟 PM 说做不完)"
+		- **AI Output (Correct):**
+			- ```md
+			  - **[Work] 委婉表达无法按时完成任务** #card
+			    - **meet the deadline**
+			    - Origin: ((paste_block_ref_here))
+			    - 💡 **Nuance & Tips**
+			      - **Why:** `Meet` 搭配 `deadline` 是最标准的职场用语。比 `finish on time` 更强调“截止日期”这一客观约束。
+			      - **Usage:** 常用于否定句 `can't meet...` 或疑问句 `will we meet...`。
+			    - 🗣️ **Example**
+			      - Given the current bugs, I don't think we can meet the deadline for the MVP launch.
+			  ```
