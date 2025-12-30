@@ -423,4 +423,5 @@
  :builtin-pages? false
  :excluded-pages? true
  :orphan-pages? true}
- :graph/forcesettings {:link-dist 70}}
+ :graph/forcesettings {:link-dist 70}
+ :publishing/all-pages-public? true}
