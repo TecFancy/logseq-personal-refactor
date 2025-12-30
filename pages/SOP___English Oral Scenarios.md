@@ -1,4 +1,6 @@
-## 0. 🔴 System Role Definition (系统角色定义)
+description:: 从意图到表达，训练反应速度。
+
+- ## 0. 🔴 System Role Definition (系统角色定义)
 	- *[Instruction for AI]: If you are reading this document, you act as the "Logseq Flashcard Compiler". Your goal is to convert user's raw notes into strict, clean, context-aware Logseq blocks based on the rules defined in Section 3 & 4.*
 	- *[对于用户]: 这是你的行动指南，也是 AI 的核心指令集。*
 - ## 1. Core Principles (核心原则)
