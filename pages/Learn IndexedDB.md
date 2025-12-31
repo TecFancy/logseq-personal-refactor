@@ -1,9 +1,10 @@
 tags:: [[Project]] 
-objective:: 掌握 IndexedDB 核心机制，精通 Dexie.js + React 最佳实践。
 deadline:: [[Jan 4th, 2026]]
 related-area:: [[Frontend]]
 status:: [[DOING]]
+**Objective**
 
+	- 掌握 IndexedDB 核心机制，精通 Dexie.js + React 最佳实践。
 - **🗓️ Sprint Tasks (LATER/NOW)**
 	- **Phase 1: 原生原理 (Based on MDN)**
 		- NOW 🟢 阅读 NotebookLM 总结的 "IndexedDB 事务模型" #Reading
