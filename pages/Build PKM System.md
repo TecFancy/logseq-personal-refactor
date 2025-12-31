@@ -1,5 +1,5 @@
 type:: [[Project]]
-status:: [[DOING]]
+status:: Active
 related-area:: [[KM]]
 
 - **目标**

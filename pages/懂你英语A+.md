@@ -1,6 +1,6 @@
 type:: [[Project]] 
 deadline:: [[Apr 28th, 2026]]
-status:: [[DOING]]
+status:: Active
 
 - **Objective**
 	- 完成懂你英语 A+ Level 4 课程，提升口语流利度。

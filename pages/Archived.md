@@ -1,2 +1,2 @@
 - 已完成的项目或过时的领域
-	- {{query (page-property :status [[DONE]])}}
+	- {{query (page-property :status [[Archived]])}}

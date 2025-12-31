@@ -1,5 +1,5 @@
 type:: [[Project]] 
-status:: [[DONE]]
+status:: [[Archived]]
 
 - {{query (and [[OCCP]] (between -7d today))}}
   query-table:: true

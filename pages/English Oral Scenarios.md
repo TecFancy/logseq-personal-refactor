@@ -17,7 +17,7 @@ type:: [[SOP]]
 			- `[[Project/Name]]` (短期项目)
 			- `[[Area/English]]` (长期领域)
 			- `[[Resource/Title]]` (输入来源，如美剧名)
-			- `[[Archive/Name]]` (归档)
+			- `[[Archived/Name]]` (归档)
 	- ### 2.2 Tagging Strategy (场景标签策略)
 		- 使用以下固定前缀标记卡片正面（Intent），加速大脑索引：
 			- `[Emotion]` (情绪表达)
