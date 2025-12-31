@@ -1,3 +1,4 @@
+tags:: [[Project]]
 status:: [[DOING]]
 related-area:: [[Area/KM]]
 

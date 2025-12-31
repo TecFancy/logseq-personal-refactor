@@ -1,5 +1,5 @@
 language:: TypeScript/React
-related-project:: [[Project/Learn IndexedDB]]
+related-project:: [[Learn IndexedDB]]
 
 - **Description**
 	- 一个标准的 Dexie + React setup 模板。

@@ -1,6 +1,6 @@
 tags:: [[Project]]
+alias:: CTW
 status:: [[DOING]]
-title:: Case Tracker Web
 
 - 查询所有链接到当前页面的 TODO 任务
 - {{query (and (page <% current page %>) (between -14d today))}}
