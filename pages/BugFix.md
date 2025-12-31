@@ -1,9 +1,9 @@
-type:: [[Template]]
-tags:: [[Coding]]
+type:: [[Coding]]
 
-- ## BugFix Template
+- ## Template
   template:: BugFix
   template-including-parent:: false
+  id:: 6954e6c3-8b8e-45cf-baeb-20851f21fe43
 	- 现象
 		- (Error Stack 或 截图描述)
 	- 原因
