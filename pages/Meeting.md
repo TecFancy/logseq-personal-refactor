@@ -1,1 +1,1 @@
-type:: [[Resource]]
+tags:: [[tags]]
