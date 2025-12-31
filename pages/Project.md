@@ -1,1 +1,2 @@
-- {{query (page-property status "DOING")}}
+- {{query (and (page-property status "DOING") (page-tags [[project]]))}}
+- {{query (namespace [[project]])}}
