@@ -1,8 +1,10 @@
+tags:: [[Project]] 
 alias:: CTW
 status:: [[DOING]]
 
-- {{query (and [[CTW]] (between -14d today))}}
-  query-table:: true
+- 查询所有链接到当前页面的 TODO 任务
+- {{query (and (page <% current page %>) (between -14d today))}}
+  query-table:: false
 - ## Important Information
 	- Sprint 周期：每周周三开始，两周后的周二结束。
 	- Deadline：很大可能延长到年底。
