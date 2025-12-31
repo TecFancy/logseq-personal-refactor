@@ -1,6 +1,6 @@
 type:: [[Project]]
 status:: Active
-related-area:: [[KM]]
+tags:: [[KM]]
 
 - **目标**
   collapsed:: true
