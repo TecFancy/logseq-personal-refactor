@@ -248,8 +248,7 @@
  ;;  ["md" "Markdown"]
  ;;  ]
  :commands [
-            ["js" "javascript"]
-            ["react" "```tsx\n\n```"]
+            ["React Component" "```tsx\nconst Component = () => {\n  return (\n    <div></div>\n  )\n}\n```"]
             ]
 
  ;; Enable collapsing blocks with titles but no children.
@@ -268,7 +267,7 @@
  ;; input "{{poem red,blue}}"
  ;; becomes
  ;; Rose is red, violet's blue. Life's ordered: Org assists you.
- :macros {}
+ :macros {"red" "<span style='color: red; font-weight: bold;'>$1</span>"}
 
  ;; Configure the default expansion level for linked references.
  ;; For example, consider the following block hierarchy:
