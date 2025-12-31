@@ -10,10 +10,13 @@ type:: [[Template]]
 		  :END:
 	- ## 💼 Work Stream
 		- *💡 Tip: 格式 = 时间 + 任务 + `[[Project/Name]]` + `#Tag` (Coding/Designing/Review)*
-		- 09:15 BPM-A(Team2) daily stdup [[Case Tracker Web]] #[[Standup Meeting Template]]
+		- 09:15 [[Case Tracker Web]] BPM-A(Team2) daily stdup #Meeting
+		-
 		-
 	- ## 🏠 Personal & Growth
 		- *💡 Tip: 格式 = 时间 + 任务 + `#Tag` (Reading/Health/Finance/LifeAdmin)*
+		-
+		-
 		-
 	- ## 🌙 Evening Review
 		- LATER 🌜 关机: 更新状态 + 迁移未完成任务
