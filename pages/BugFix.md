@@ -1,4 +1,5 @@
 type:: [[Coding]]
+tags:: [[Template]]
 
 - ## Template
   template:: BugFix
