@@ -16,3 +16,8 @@ status:: Active
 - **🔨 Progress & Tasks**
 	- *Auto-aggregated tasks from Journal*
 	- {{query (and [[懂你英语A+]] (task LATER DOING))}}
+type:: [[Course]]
+
+- **🔥 Current Focus (当前进度)**
+	- LATER 正在攻克：[[懂你英语A+/4-24]] 失望的约会
+	- 下一课：[[Course/懂你英语A+/4-25]]
