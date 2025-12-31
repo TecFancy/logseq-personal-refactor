@@ -1,4 +1,6 @@
-## Algorithms
+tags:: [[Area]]
+
+- ## Algorithms
 	-
 - ## Design Patterns
 	-

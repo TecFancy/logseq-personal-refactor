@@ -1,4 +1,0 @@
-## Core Stack
-	-
-- ## Ecosystem
-	-

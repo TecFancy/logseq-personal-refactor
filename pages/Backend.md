@@ -1,4 +1,6 @@
-## Languages
+tags:: [[Area]]
+
+- ## Languages
 	-
 - ## Database
 	-

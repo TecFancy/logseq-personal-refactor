@@ -1,5 +1,5 @@
 tags:: [[Resource]]
-related-area:: [[Area/Frontend]]
+related-area:: [[Frontend]]
 alias:: JS
 
 -

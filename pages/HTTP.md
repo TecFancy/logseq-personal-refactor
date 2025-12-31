@@ -1,4 +1,4 @@
 tags:: [[Resource]]
-related-area:: [[Area/CS]]
+related-area:: [[CS]]
 
 -

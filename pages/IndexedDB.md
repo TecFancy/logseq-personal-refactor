@@ -1,5 +1,5 @@
 tags:: [[JavaScript]], [[Resource]] 
-related-area:: [[Area/Frontend]]
+related-area:: [[Frontend]]
 alias:: IDB
 description:: 浏览器原生的事务型对象数据库 (NoSQL)。
 

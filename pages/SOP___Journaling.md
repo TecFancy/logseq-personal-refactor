@@ -1,4 +1,4 @@
-related-area:: [[Area/KM]]
+related-area:: [[KM]] 
 related-template:: [[Template/Journal]] 
 description:: 日记驱动开发 (JDD) 的核心操作指南与规范
 updated:: [[Dec 28th, 2025]]

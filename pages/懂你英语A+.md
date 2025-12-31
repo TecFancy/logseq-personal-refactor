@@ -1,7 +1,6 @@
 tags:: [[Project]] 
 objective:: 完成懂你英语 A+ Level 4 课程，提升口语流利度
 deadline:: [[Apr 28th, 2026]]
-area:: [[English]]
 status:: [[DOING]]
 
 - **⏳ Countdown**
