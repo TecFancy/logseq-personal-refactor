@@ -1,6 +1,8 @@
-## Lite Meeting Template
-template:: Lite Meeting
-template-including-parent:: false
+type:: [[Template]]
+
+- ## Lite Meeting Template
+  template:: Lite Meeting
+  template-including-parent:: false
 	- 📝 Discussion (讨论纪要)
 		-
 	- 🚀 Action Items (待办)

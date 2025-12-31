@@ -1,6 +1,8 @@
-## Daily Standup Template
-template:: Standup Meeting
-template-including-parent:: false
+type:: [[Template]]
+
+- ## Daily Standup Template
+  template:: Standup Meeting
+  template-including-parent:: false
 	- 🛑 Blockers (阻碍)
 		- (有没有卡壳的地方？优先解决这个)
 	- ✅ Updates (进度)

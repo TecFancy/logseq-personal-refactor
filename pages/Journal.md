@@ -1,6 +1,8 @@
-## Journal Template
-template:: Journal
-template-including-parent:: false
+type:: [[Template]]
+
+- ## Journal Template
+  template:: Journal
+  template-including-parent:: false
 	- ## 🌞 Morning Routine
 		- LATER ☀️ 启动: 清空 Inbox + 检查 [[Project]] 看板
 		  :LOGBOOK:

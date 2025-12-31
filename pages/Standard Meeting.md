@@ -1,6 +1,8 @@
-## Standard Meeting Template
-template:: Standard Meeting
-template-including-parent:: false
+type:: [[Template]]
+
+- ## Standard Meeting Template
+  template:: Standard Meeting
+  template-including-parent:: false
 	- Attendees:
 	- Goal: (一句话描述会议目标)
 	- ---
