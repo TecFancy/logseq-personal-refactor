@@ -1,2 +1,3 @@
-tags:: [[Resource]]
-description:: 标准作业程序 (standard operation procedure)
+type:: [[Resource]]
+
+- 标准作业程序 (standard operation procedure)

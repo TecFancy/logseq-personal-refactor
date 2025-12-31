@@ -1,4 +1,4 @@
-tags:: [[Area]]
+type:: [[Area]]
 
 - ## Algorithms
 	-

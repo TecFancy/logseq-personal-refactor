@@ -1,2 +1,2 @@
-tags:: [[Area]]
+type:: [[Area]]
 alias:: KM
