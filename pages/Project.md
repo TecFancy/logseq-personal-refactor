@@ -1,2 +1,3 @@
-- Active Projects
-	- {{query (and (page-property status "DOING") (page-tags [[project]]))}}
+- {{query (and (property :type [[Project]]) (property :status [[DOING]]))}}
+  query-table:: true
+  query-properties:: [:page :deadline :related-area :alias]

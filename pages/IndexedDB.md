@@ -1,6 +1,6 @@
-type:: [[JavaScript]] 
+type:: [[Knowledge]] 
 alias:: IDB
-related-area:: [[Frontend]]
+tags:: [[JavaScript]] [[Frontend]] [[Database]]
 
 - 浏览器原生的事务型对象数据库 (NoSQL)。
 - **Core Concepts (From NotebookLM)**

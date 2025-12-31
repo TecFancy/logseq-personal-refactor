@@ -1,4 +1,5 @@
-type:: [[Resource]]
+type:: [[Knowledge]] 
+tags:: [[Frontend]] [[Language]] [[Tech]] 
 alias:: JS
 
 -

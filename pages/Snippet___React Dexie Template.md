@@ -1,4 +1,3 @@
-language:: TypeScript/React
 related-project:: [[Learn IndexedDB]]
 
 - **Description**

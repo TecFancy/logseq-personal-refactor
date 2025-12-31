@@ -1,9 +1,9 @@
-tags:: [[Project]] 
+type:: [[Project]] 
 deadline:: [[Jan 4th, 2026]]
 related-area:: [[Frontend]]
 status:: [[DOING]]
-**Objective**
 
+- **Objective**
 	- 掌握 IndexedDB 核心机制，精通 Dexie.js + React 最佳实践。
 - **🗓️ Sprint Tasks (LATER/NOW)**
 	- **Phase 1: 原生原理 (Based on MDN)**

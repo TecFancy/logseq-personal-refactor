@@ -1,10 +1,12 @@
-tags:: [[Project]]
+type:: [[Project]]
 status:: [[DOING]]
 related-area:: [[KM]]
 
 - **目标**
+  collapsed:: true
 	- 构建一套基于 Logseq 的 JDD + PARA 知识管理工作流。
 - **计划**
+  collapsed:: true
 	- 阶段一：输入
 		- 看《卡片笔记》如何做“闪念笔记”。
 		- 搜《间歇式日记》如何做“任务切换记录”。
@@ -18,11 +20,14 @@ related-area:: [[KM]]
 		- 看 Nick Milo 如何构建 MOC。
 		- 产出：尝试建立第一个 Area (如 KM) 的 MOC 页面。
 - **参考资料库**
+  collapsed:: true
 	- *图书*
-		- [[Book/How to Take Smart Notes]] (重点：理解原子化笔记与双链)
-		- [[Book/Build a Second Brain]] (重点：理解 PARA 结构)
+		- [[How to Take Smart Notes]] (重点：理解原子化笔记与双链)
+		- [[Build a Second Brain]] (重点：理解 PARA 结构)
 - **融合思考**
+  collapsed:: true
 	- *在这里对比不同方法论的异同。*
 - **聚合任务**
+  collapsed:: true
 	- *自动抓取所有相关资源的 TODO*
 	-

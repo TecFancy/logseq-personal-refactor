@@ -1,4 +1,4 @@
-tags:: [[Project]]
+type:: [[Project]]
 alias:: CTW
 status:: [[DOING]]
 
