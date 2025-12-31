@@ -247,7 +247,10 @@
  ;;  ["js" "Javascript"]
  ;;  ["md" "Markdown"]
  ;;  ]
- :commands []
+ :commands [
+            ["js" "javascript"]
+            ["react" "```tsx\n\n```"]
+            ]
 
  ;; Enable collapsing blocks with titles but no children.
  ;; By default, only blocks with children can be collapsed.
@@ -322,16 +325,17 @@
 
  ;; Properties to exclude from having property pages
  ;; Example usage:
- ;; :property-pages/excludelist #{:duration :author}
+ :property-pages/excludelist #{:duration :author}
 
  ;; By default, property value separated by commas will not be treated as
  ;; page references. You can add properties to enable it.
  ;; Example usage:
- ;; :property/separated-by-commas #{:alias :tags}
+ :property/separated-by-commas #{:alias :tags :participants :authors :attendees}
 
  ;; Properties that are ignored when parsing property values for references
  ;; Example usage:
- ;; :ignored-page-references-keywords #{:author :website}
+ ；；:ignored-page-references-keywords #{:author :website}
+ :ignored-page-references-keywords #{:url :website :color :id}
 
  ;; logbook configuration.
  ;; :logbook/settings
