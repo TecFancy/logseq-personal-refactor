@@ -1,7 +1,6 @@
 related-area:: [[KM]] 
 related-template:: [[Template/Journal]] 
 description:: 日记驱动开发 (JDD) 的核心操作指南与规范
-updated:: [[Dec 28th, 2025]]
 
 - **1. 核心理念 (Philosophy)**
 	- **流式记录 (Stream First)**: 不要纠结分类，先记录。日记是“时间流”，Page 是“知识库”。
