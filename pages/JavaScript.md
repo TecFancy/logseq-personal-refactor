@@ -1,4 +1,4 @@
-tags:: [[Resource]]
+type:: [[Resource]]
 related-area:: [[Frontend]]
 alias:: JS
 

@@ -1,1 +1,1 @@
-tags:: [[Coding]]
+type:: [[Coding]]

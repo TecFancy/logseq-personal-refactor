@@ -1,8 +1,8 @@
-tags:: [[JavaScript]], [[Resource]] 
-related-area:: [[Frontend]]
+type:: [[JavaScript]] 
 alias:: IDB
-description:: 浏览器原生的事务型对象数据库 (NoSQL)。
+related-area:: [[Frontend]]
 
+- 浏览器原生的事务型对象数据库 (NoSQL)。
 - **Core Concepts (From NotebookLM)**
 	- **Database**: 也就是 DB 本身，通过 `open` 请求打开。
 	- **Object Store**: 数据的存储桶，类似于关系型数据库的 Table。

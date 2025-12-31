@@ -1,4 +1,4 @@
-tags:: [[Tool]], [[Resource]]
+type:: [[Tool]]
 related-area:: [[Frontend]]
 description:: IndexedDB 的极简封装库，Promise 风格，完美支持 React。
 
