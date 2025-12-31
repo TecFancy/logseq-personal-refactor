@@ -15,7 +15,4 @@ status:: [[DOING]]
 	- 4. **Speak:** 跟读直到打分绿色。
 - **🔨 Progress & Tasks**
 	- *Auto-aggregated tasks from Journal*
-	- {{query (and [[Project/Dongni-English-Sprint]] (task TODO DOING))}}
-- **🧠 Knowledge MOC**
-	- *Links to specific notes*
-	- `[[Resource/Course/Dongni-Level-4]]`
+	- {{query (and [[懂你英语A+]] (task LATER DOING))}}
