@@ -1,4 +1,4 @@
-tags:: [[Activity]]
+tags:: [[tags]]
 alias:: CR, Reflect
 description:: 代码走查 (Code Review)、复盘
 

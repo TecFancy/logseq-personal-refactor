@@ -1,4 +1,4 @@
-tags:: [[Activity]]
+tags:: [[tags]]
 alias:: Doc
 description:: 写 SOP、写博客、写非技术文档
 

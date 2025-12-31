@@ -1,4 +1,4 @@
-tags:: [[Activity]]
+tags:: [[tags]]
 alias:: Dev, Impl
 description:: “搬砖”，写代码、调试
 

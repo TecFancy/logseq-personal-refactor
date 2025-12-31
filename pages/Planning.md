@@ -1,4 +1,4 @@
-tags:: [[Activity]]
+tags:: [[tags]]
 alias:: Plan, GTD
 description:: 排期、整理收件箱、任务拆解
 
