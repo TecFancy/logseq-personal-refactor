@@ -1,6 +1,6 @@
 type:: [[Project]] 
+tags:: [[JavaScript]] [[Frontend]] 
 deadline:: [[Jan 4th, 2026]]
-related-area:: [[Frontend]]
 status:: [[DOING]]
 
 - **Objective**

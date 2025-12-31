@@ -11,3 +11,4 @@ type:: [[Template]]
 		- :LOGBOOK:
 		  CLOCK: [2025-11-25 Tue 08:35:17]
 		  :END:
+-
