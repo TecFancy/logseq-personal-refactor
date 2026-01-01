@@ -254,17 +254,20 @@
             ;; 快速插入折叠块 (Logseq 语法)
             ["Collapsed Block" "collapsed:: true\n"]
             
-            ;; 场景 1: 通用会议模板
+            ;; 通用会议模板
             ;; 用法：输入会议标题后，调用此命令，自动补充属性结构
             ["Meeting: General" "\ntype:: [[Meeting]]\ncategory:: "]
             
-            ;; 场景 2: 需求评审 (Req Review) - 专治歧义
+            ;; 需求评审 (Req Review) - 专治歧义
             ;; 用法：直接定死了 category 为 [[Req Review]]，无需再选
             ["Meeting: Review" "\ntype:: [[Meeting]]\ncategory:: [[Req Review]]\nattendees:: "]
             
-            ;; 场景 3: 代码评审 (Coding) - 区分于会议
+            ;; 代码评审 (Coding) - 区分于会议
             ;; 用法：用于记录 Coding 任务
             ["Coding: Review" "\ntype:: [[Coding]]\ncategory:: [[Code Review]]\npr:: "]
+            
+            ;; 英语学习专用 Command
+            ["English: 懂你英语A+" "\ntype:: [[Course]]\nlevel:: 4\nunit:: "]
             ]
 
  ;; Enable collapsing blocks with titles but no children.
