@@ -9,7 +9,7 @@ status:: Active
 	  query-properties:: [:block :page :level :unit]
 	  query-sort-by:: page
 	  query-sort-desc:: false
-- {{cards (and [[懂你英语A+]] (property unit 24))}}
+- {{cards (and [[懂你英语A+]] (property unit 24))}}~~~~
 - **Objective**
 	- 完成懂你英语 A+ Level 4 课程，提升口语流利度。
 - **⏳ Countdown**
