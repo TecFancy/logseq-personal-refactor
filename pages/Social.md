@@ -1,5 +1,5 @@
 type:: [[tags]]
-description:: 陪伴家人、朋友聚餐、甚至是为了维系人脉的喝咖啡
+desc:: 陪伴家人、朋友聚餐、甚至是为了维系人脉的喝咖啡
 
 - {{query (and [[Social]] (between -7d today))}}
 - Example
