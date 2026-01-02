@@ -1,4 +1,4 @@
-tags:: [[Learn IndexedDB]]
+type:: [[snippet]]
 
 - **Description**
 	- 一个标准的 Dexie + React setup 模板。

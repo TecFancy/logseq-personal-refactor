@@ -1,5 +1,6 @@
 type:: [[tags]]
 
+- {{query (page-property :type [[coding]])}}
 - {{query (and [[Coding]] (between -7d today))}}
   query-table:: true
   query-sort-by:: clock-time
