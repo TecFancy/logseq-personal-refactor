@@ -6,10 +6,7 @@ status:: active
 	- 掌握 IndexedDB 核心机制，精通 Dexie.js + React 最佳实践。
 - **🗓️ Sprint Tasks (LATER/NOW)**
 	- **Phase 1: 原生原理 (Based on MDN)**
-		- NOW 🟢 阅读 NotebookLM 总结的 "IndexedDB 事务模型" #Reading
-		  :LOGBOOK:
-		  CLOCK: [2025-12-29 Mon 13:07:48]
-		  :END:
+		- LATER 🟢 阅读 NotebookLM 总结的 "IndexedDB 事务模型" #Reading
 		- LATER 手写原生 `open` 和 `upgrade` 逻辑，体验版本控制 (Versioning) 的痛苦 #Coding
 	- **Phase 2: Dexie 实战 (Based on Dexie Docs)**
 		- LATER 🟢 学习 `db.js` 单例模式的最佳实践 #Reading
