@@ -272,6 +272,8 @@
             ["Meeting: Sync" "#Meeting\ncategory:: Sync\nattendees:: "]
             ;; Transfer
             ["Meeting: Transfer" "#Meeting\ncategory:: Transfer\nattendees:: "]
+            ;; Training
+            ["Meeting: Training" "#Meeting\ncategory:: Training\nattendees:: "]
             ;; 1-1 面谈 (One on One)
             ["Meeting: 1-1" "#Meeting\ncategory:: 1-1\ntopic:: "]
             ;; 5. 通用会议 (兜底)
