@@ -455,7 +455,7 @@
  :file/name-format :triple-lowbar
  :graph/settings {:journal? false
  :builtin-pages? false
- :excluded-pages? true
+ :excluded-pages? false
  :orphan-pages? true}
  :graph/forcesettings {:link-dist 50
  :charge-range 1500
