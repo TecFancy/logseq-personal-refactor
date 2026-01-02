@@ -1,4 +1,5 @@
-type:: [[Project]] 
+type:: [[Project]]
+tags:: [[IndexedDB]] 
 deadline:: [[Jan 4th, 2026]]
 status:: active
 
