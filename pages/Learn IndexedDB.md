@@ -6,14 +6,14 @@ status:: active
 	- 掌握 IndexedDB 核心机制，精通 Dexie.js + React 最佳实践。
 - **🗓️ Sprint Tasks (LATER/NOW)**
 	- **Phase 1: 原生原理 (Based on MDN)**
-		- LATER 🟢 阅读 NotebookLM 总结的 "IndexedDB 事务模型" #Reading
-		- LATER 手写原生 `open` 和 `upgrade` 逻辑，体验版本控制 (Versioning) 的痛苦 #Coding
+		- LATER 🟢 阅读 NotebookLM 总结的 "IndexedDB 事务模型" #reading
+		- LATER 手写原生 `open` 和 `upgrade` 逻辑，体验版本控制 (Versioning) 的痛苦 #coding
 	- **Phase 2: Dexie 实战 (Based on Dexie Docs)**
-		- LATER 🟢 学习 `db.js` 单例模式的最佳实践 #Reading
-		- LATER 在 React 组件中实现 `useLiveQuery` 实时监听数据变化 #Coding
+		- LATER 🟢 学习 `db.js` 单例模式的最佳实践 #reading
+		- LATER 在 React 组件中实现 `useLiveQuery` 实时监听数据变化 #coding
 	- **Phase 3: Demo Output**
-		- LATER 🚀 输出一个 "离线 Todo List" Demo #Coding
-		- LATER 归档代码片段到 `[[Snippet/React-Dexie-Template]]` #Coding
+		- LATER 🚀 输出一个 "离线 Todo List" Demo #coding
+		- LATER 归档代码片段到 `[[Snippet/React-Dexie-Template]]` #coding
 - **📚 Resources (NotebookLM Context)**
 	- **Uploaded Sources:**
 		- 📄 [IndexedDB API (MDN)](https://developer.mozilla.org/zh-CN/docs/Web/API/IndexedDB_API)

@@ -250,8 +250,10 @@
  :commands [
             ;; 快速插入 React 代码块
             ["Coding: React Component" "```tsx\nconst Component = () => {\n  return (\n    <div></div>\n  )\n}\n```"]
-            ;; 代码评审 (Coding) - 区分于会议
-            ["Coding: Review" "\ntype:: [[Coding]]\ncategory:: [[Code Review]]\npr:: "]
+            ;; 代码评审 (Coding)
+            ["Coding: Review" "#coding\ncategory:: Review\npr:: "]
+            ;; BugFix
+            ["Coding: BugFix" "#coding\ncategory:: bugfix"]
             
             ;; 快速插入折叠块 (Logseq 语法)
             ["Collapsed Block" "collapsed:: true\n"]

@@ -1,1 +1,1 @@
-type:: [[Meeting]]
+type:: [[meeting]]

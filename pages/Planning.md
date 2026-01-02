@@ -1,4 +1,4 @@
-type:: [[Meeting]] 
+type:: [[meeting]] 
 alias:: Plan, GTD
 排期、整理收件箱、任务拆解。
 
