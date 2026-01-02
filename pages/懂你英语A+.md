@@ -8,4 +8,4 @@ status:: Active
 	  query-table:: true
 	  query-properties:: [:block :page :level :unit]
 	  query-sort-by:: page
-	  query-sort-desc:: false
+	  query-sort-desc:: true
