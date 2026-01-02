@@ -361,7 +361,7 @@
  ;; Properties that are ignored when parsing property values for references
  ;; Example usage:
  ;; :ignored-page-references-keywords #{:author :website}
- :ignored-page-references-keywords #{:url :website :color :id :category :level :unit}
+ :ignored-page-references-keywords #{:url :website :color :id :category :level :unit :attendees}
 
  ;; logbook configuration.
  ;; :logbook/settings
