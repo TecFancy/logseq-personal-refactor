@@ -249,38 +249,29 @@
  ;;  ]
  :commands [
             ;; 快速插入 React 代码块
-            ["React Component" "```tsx\nconst Component = () => {\n  return (\n    <div></div>\n  )\n}\n```"]
+            ["Coding: React Component" "```tsx\nconst Component = () => {\n  return (\n    <div></div>\n  )\n}\n```"]
+            ;; 代码评审 (Coding) - 区分于会议
+            ["Coding: Review" "\ntype:: [[Coding]]\ncategory:: [[Code Review]]\npr:: "]
             
             ;; 快速插入折叠块 (Logseq 语法)
             ["Collapsed Block" "collapsed:: true\n"]
             
-            ;; 通用会议模板
-            ;; 用法：输入会议标题后，调用此命令，自动补充属性结构
-            ["Meeting: General" "\ntype:: [[Meeting]]\ncategory:: "]
-            
-            ;; 需求评审 (Req Review) - 专治歧义
-            ;; 用法：直接定死了 category 为 [[Req Review]]，无需再选
-            ["Meeting: Review" "\ntype:: [[Meeting]]\ncategory:: [[Req Review]]\nattendees:: "]
-            
-            ;; 代码评审 (Coding) - 区分于会议
-            ;; 用法：用于记录 Coding 任务
-            ["Coding: Review" "\ntype:: [[Coding]]\ncategory:: [[Code Review]]\npr:: "]
-            
             ;; 英语学习专用 Command
             ["English: 懂你英语A+" "\ntype:: [[Course]]\nlevel:: 4\nunit:: "]
-            
+           
+            ;; Meetings
             ;; 计划会议 (Planning)
-            ["Meeting: Planning" " #Meeting\ncategory:: [[Planning]]"]
-            
+            ["Meeting: Planning" "#Meeting\ncategory:: Planning"]
             ;; 评审/复盘 (Review)
-            ["Meeting: Review" " #Meeting\ncategory:: [[Review]]"]
-
-  ;; 4. 1-1 面谈 (One on One)
-  ;; 用法：输入 "16:00 1-1 with [[Manager]]" -> 调用命令
-  ["Meeting: 1-1" " #Meeting\ntype:: [[Meeting]]\ncategory:: [[1-1]]\ntopic:: "]
-  
-  ;; 5. 通用会议 (兜底)
-  ["Meeting: General" " #Meeting\ntype:: [[Meeting]]\ncategory:: "]
+            ["Meeting: Review" "#Meeting\ncategory:: Review\nattendees:: "]
+            ;; Grooming
+            ["Meeting: Grooming" "#Meeting\ncategory:: Grooming\nattendees:: "]
+            ;; Sync
+            ["Meeting: Sync" "#Meeting\ncategory:: Sync\nattendees:: "]
+            ;; 1-1 面谈 (One on One)
+            ["Meeting: 1-1" "#Meeting\ncategory:: 1-1\ntopic:: "]
+            ;; 5. 通用会议 (兜底)
+            ["Meeting: General" "#Meeting\ncategory:: "]
             ]
 
  ;; Enable collapsing blocks with titles but no children.
