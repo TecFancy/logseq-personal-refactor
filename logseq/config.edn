@@ -268,6 +268,19 @@
             
             ;; 英语学习专用 Command
             ["English: 懂你英语A+" "\ntype:: [[Course]]\nlevel:: 4\nunit:: "]
+            
+            ;; 计划会议 (Planning)
+            ["Meeting: Planning" " #Meeting\ncategory:: [[Planning]]"]
+            
+            ;; 评审/复盘 (Review)
+            ["Meeting: Review" " #Meeting\ncategory:: [[Review]]"]
+
+  ;; 4. 1-1 面谈 (One on One)
+  ;; 用法：输入 "16:00 1-1 with [[Manager]]" -> 调用命令
+  ["Meeting: 1-1" " #Meeting\ntype:: [[Meeting]]\ncategory:: [[1-1]]\ntopic:: "]
+  
+  ;; 5. 通用会议 (兜底)
+  ["Meeting: General" " #Meeting\ntype:: [[Meeting]]\ncategory:: "]
             ]
 
  ;; Enable collapsing blocks with titles but no children.
