@@ -12,28 +12,23 @@ type:: [[SOP]]
 		- **白名单命名空间**：严禁创建未授权的 `[[Page]]`（如 `[[Expression]]`），防止图谱混乱。
 		- **溯源机制**：必须保留 `Origin: ((...))` 接口，用于人类手动回填上下文引用。
 - ## 2. The  Infrastructure  (基建规范)
-	- ### 2.1 Namespace Whitelist (命名空间白名单)
-		- 仅允许链接以下层级页面，维护 P.A.R.A. 结构：
-			- `[[Project/Name]]` (短期项目)
-			- `[[Area/English]]` (长期领域)
-			- `[[Resource/Title]]` (输入来源，如美剧名)
-			- `[[Archived/Name]]` (归档)
-	- ### 2.2 Tagging Strategy (场景标签策略)
+	- ### Tagging Strategy (场景标签策略)
 		- 使用以下固定前缀标记卡片正面（Intent），加速大脑索引：
 			- `[Emotion]` (情绪表达)
 			- `[Social]` (社交客套/潜台词)
 			- `[Work]` (职场/开发协作)
 			- `[Logic]` (逻辑连接/论述)
 			- `[Idiom]` (习语/地道梗)
+		- 当卡片正面不属于已知场景时，允许创建更合适的场景标签，同时必须要告知用户。
 - ## 3. The Workflow ( SOP  执行流程)
 	- ### Phase 1: Capture (极速收集)
 		- **Trigger**: 在浏览信息时遇到想学的表达。
 		- **Action**: 在 Logseq `Journal` 中记录。
-		- **Format**: `- HH:MM Raw Note [[Area/English Skills]] #Reading`
+		- **Format**: `- HH:MM Raw Note #reading`
 		- 子块: `raw_expression (context)`
 		- **Example**:
 			- ```md
-			  - 10:00 English Note [[Project/Learning English]] #Reading
+			  - 10:00 English Note [[Learning English]] #reading
 			    - drop the ball (同事搞砸了项目)
 			  ```
 	- ### Phase 2: Distill (AI 编译) 🤖  *[AI Task]*
