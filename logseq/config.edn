@@ -374,6 +374,7 @@
                                      :level 
                                      :unit 
                                      :status
+                                     :type
                                      }
 
  ;; logbook configuration.
