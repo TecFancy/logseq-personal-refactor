@@ -1,7 +1,6 @@
 type:: [[Project]] 
-tags:: [[JavaScript]] [[Frontend]] 
 deadline:: [[Jan 4th, 2026]]
-status:: Active
+status:: active
 
 - **Objective**
 	- 掌握 IndexedDB 核心机制，精通 Dexie.js + React 最佳实践。

@@ -1,5 +1,5 @@
 type:: [[Project]]
-status:: Active
+status:: active
 tags:: [[KM]]
 
 - **目标**

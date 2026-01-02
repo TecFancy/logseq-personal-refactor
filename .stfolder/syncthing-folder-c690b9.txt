@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: ng6h7-pjxjs
+created: 2026-01-02T18:48:19+08:00
