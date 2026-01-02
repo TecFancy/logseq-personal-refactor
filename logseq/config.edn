@@ -255,7 +255,7 @@
             ;; BugFix
             ["Coding: BugFix" "#coding\ncategory:: bugfix"]
             ;; Snippet
-            ["Coding: Snippet" "#coding\ncategory:: snippet\n"]
+            ["Coding: Snippet" "#coding\ncategory:: snippet\n\n\t"]
             
             ;; 快速插入折叠块 (Logseq 语法)
             ["Collapsed Block" "collapsed:: true\n"]
