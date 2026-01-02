@@ -1,3 +1,3 @@
-alias:: Luna
 type:: [[Person]]
+alias:: Luna
 role:: Developer
