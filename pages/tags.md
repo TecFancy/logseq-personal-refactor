@@ -5,3 +5,4 @@
   | **输入/学习** | `[[Reading]]` (也适用于看电影/展), `[[Review]]` |
   | **管理/规划** | `[[Planning]]`, `[[Finance]]`, `[[LifeAdmin]]` |
   | **身心/连接** | `[[Health]]`, `[[Social]]` |
+- {{query (page-property :type [[tags]])}}
