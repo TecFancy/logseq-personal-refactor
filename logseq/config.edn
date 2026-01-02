@@ -251,7 +251,7 @@
             ;; 快速插入 React 代码块
             ["Coding: React Component" "```tsx\nconst Component = () => {\n  return (\n    <div></div>\n  )\n}\n```"]
             ;; 代码评审 (Coding)
-            ["Coding: Review" "#coding\ncategory:: Review\npr:: "]
+            ["Coding: Review" "#coding\ncategory:: review\npr:: "]
             ;; BugFix
             ["Coding: BugFix" "#coding\ncategory:: bugfix"]
             ;; Code Snippet
@@ -265,17 +265,17 @@
            
             ;; Meetings
             ;; 计划会议 (Planning)
-            ["Meeting: Planning" "#Meeting\ncategory:: Planning"]
+            ["Meeting: Planning" "#Meeting\ncategory:: planning"]
             ;; 评审/复盘 (Review)
-            ["Meeting: Review" "#Meeting\ncategory:: Review\nattendees:: "]
+            ["Meeting: Review" "#Meeting\ncategory:: review\nattendees:: "]
             ;; Grooming
-            ["Meeting: Grooming" "#Meeting\ncategory:: Grooming\nattendees:: "]
+            ["Meeting: Grooming" "#Meeting\ncategory:: grooming\nattendees:: "]
             ;; Sync
-            ["Meeting: Sync" "#Meeting\ncategory:: Sync\nattendees:: "]
+            ["Meeting: Sync" "#Meeting\ncategory:: sync\nattendees:: "]
             ;; Transfer
-            ["Meeting: Transfer" "#Meeting\ncategory:: Transfer\nattendees:: "]
+            ["Meeting: Transfer" "#Meeting\ncategory:: transfer\nattendees:: "]
             ;; Training
-            ["Meeting: Training" "#Meeting\ncategory:: Training\nattendees:: "]
+            ["Meeting: Training" "#Meeting\ncategory:: training\nattendees:: "]
             ;; 1-1 面谈 (One on One)
             ["Meeting: 1-1" "#Meeting\ncategory:: 1-1\ntopic:: "]
             ;; 5. 通用会议 (兜底)
