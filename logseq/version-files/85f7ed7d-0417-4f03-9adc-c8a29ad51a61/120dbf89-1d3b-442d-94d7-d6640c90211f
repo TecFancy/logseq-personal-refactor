@@ -1,6 +1,5 @@
 type:: [[SOP]]
 tags:: [[English]]
-
 - 从意图到表达，训练反应速度。
 -
 - ## 0. 🔴 System Role Definition (系统角色定义)
@@ -55,13 +54,13 @@ tags:: [[English]]
 	- ### Rule 2: Content Structure (Template)
 		- Generate the output using this EXACT structure:
 			- ```md
-			  - [Tag] Chinese_Intent_Description #card
+			  - **[Tag] Chinese_Intent_Description** #card
 			    - **Target English Expression**
 			    - Origin: ((paste_block_ref_here))
-			    - 💡 Nuance & Tips
-			      - Why: (Explain why this word is chosen over synonyms, kept concise)
-			      - Usage: (Register, tone, or grammar patterns)
-			    - 🗣️ Example
+			    - 💡 **Nuance & Tips**
+			      - **Why:** (Explain why this word is chosen over synonyms, kept concise)
+			      - **Usage:** (Register, tone, or grammar patterns)
+			    - 🗣️ **Example**
 			      - (One natural sentence fitting the user's context/role as a developer)
 			  ```
 	- ### Rule 3: Anti-pollution (防污染)
@@ -69,12 +68,12 @@ tags:: [[English]]
 			- "I don't think we can meet the deadline. (Context: 前端开发跟 PM 说做不完)"
 		- **AI Output (Correct):**
 			- ```md
-			  - [Work] 委婉表达无法按时完成任务 #card
-			    - meet the deadline
+			  - **[Work] 委婉表达无法按时完成任务** #card
+			    - **meet the deadline**
 			    - Origin: ((paste_block_ref_here))
-			    - 💡 Nuance & Tips
-			      - Why: `Meet` 搭配 `deadline` 是最标准的职场用语。比 `finish on time` 更强调“截止日期”这一客观约束。
-			      - Usage: 常用于否定句 `can't meet...` 或疑问句 `will we meet...`。
-			    - 🗣️ Example
+			    - 💡 **Nuance & Tips**
+			      - **Why:** `Meet` 搭配 `deadline` 是最标准的职场用语。比 `finish on time` 更强调“截止日期”这一客观约束。
+			      - **Usage:** 常用于否定句 `can't meet...` 或疑问句 `will we meet...`。
+			    - 🗣️ **Example**
 			      - Given the current bugs, I don't think we can meet the deadline for the MVP launch.
 			  ```
