@@ -1,7 +1,6 @@
 type:: [[Project]]
 status:: active
 tags:: [[KM]]
-
 - **目标**
   collapsed:: true
 	- 构建一套基于 Logseq 的 JDD + PARA 知识管理工作流。

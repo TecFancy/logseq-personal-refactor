@@ -1,5 +1,4 @@
 type:: [[Template]]
-
 - ## Standard Meeting Template
   template:: Standard Meeting
   template-including-parent:: false

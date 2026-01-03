@@ -460,4 +460,5 @@
  :graph/forcesettings {:link-dist 50
  :charge-range 1500
  :charge-strength -800}
- :publishing/all-pages-public? true}
+ :publishing/all-pages-public? true
+ :zotero/settings-v2 {"default" {:type :user, :type-id "18770929"}}}

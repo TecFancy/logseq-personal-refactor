@@ -1,0 +1,4 @@
+type:: [[Tech]] 
+alias:: JS
+
+-

@@ -1,4 +1,3 @@
 type:: [[Tech]] 
 alias:: JS
-
 -

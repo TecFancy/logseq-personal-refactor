@@ -1,5 +1,4 @@
 type:: [[Template]]
-
 - ## Daily Standup Template
   template:: Standup Meeting
   template-including-parent:: false

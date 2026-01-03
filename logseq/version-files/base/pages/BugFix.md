@@ -1,5 +1,4 @@
 type:: [[Template]]
-
 - ## BugFix Template
   id:: 6954e6c3-8b8e-45cf-baeb-20851f21fe43
   template:: BugFix

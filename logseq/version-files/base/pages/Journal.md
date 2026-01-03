@@ -1,5 +1,4 @@
 type:: [[Template]]
-
 - ## Journal Template
   template:: Journal
   template-including-parent:: false

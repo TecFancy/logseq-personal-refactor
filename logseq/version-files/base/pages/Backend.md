@@ -1,5 +1,4 @@
 type:: [[Area]]
-
 - ## Languages
 	-
 - ## Database

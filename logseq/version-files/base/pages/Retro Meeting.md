@@ -1,5 +1,4 @@
 type:: [[Template]]
-
 - ## Retro Meeting Template
   template:: Retro Meeting
   template-including-parent:: false

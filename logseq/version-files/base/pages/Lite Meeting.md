@@ -1,5 +1,4 @@
 type:: [[Template]]
-
 - ## Lite Meeting Template
   template:: Lite Meeting
   template-including-parent:: false
