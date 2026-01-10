@@ -1,7 +1,11 @@
 type:: [[JavaScript]] 
 alias:: IDB
-tags:: [[Database]]
+tags:: [[Dexie.js]] [[Database]]
+
 - [初始化 DB](((6956acae-2332-4bd6-9457-5ea1dc9dedd9)))
 - CRUD
 	- [新增一条数据](((69580275-e17f-41f3-a01c-8235000cab67)))
--
+	- [删除一条数据](((69594cf8-2dc7-4d10-b47b-eedd9c0fcf78)))
+	- [修改一条数据](((695b124c-3e29-4a5b-888b-c52625727b4d)))
+	- 查询数据
+		- [单字段精确查询](((695b437d-346f-4a0b-83e1-b0342336be7d)))

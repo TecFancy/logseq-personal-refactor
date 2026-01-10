@@ -265,21 +265,21 @@
            
             ;; Meetings
             ;; 计划会议 (Planning)
-            ["Meeting: Planning" "#Meeting\ncategory:: planning"]
+            ["Meeting: Planning" "#meeting\ncategory:: planning"]
             ;; 评审/复盘 (Review)
-            ["Meeting: Review" "#Meeting\ncategory:: review\nattendees:: "]
+            ["Meeting: Review" "#meeting\ncategory:: review\nattendees:: "]
             ;; Grooming
-            ["Meeting: Grooming" "#Meeting\ncategory:: grooming\nattendees:: "]
+            ["Meeting: Grooming" "#meeting\ncategory:: grooming\nattendees:: "]
             ;; Sync
-            ["Meeting: Sync" "#Meeting\ncategory:: sync\nattendees:: "]
+            ["Meeting: Sync" "#meeting\ncategory:: sync\nattendees:: "]
             ;; Transfer
-            ["Meeting: Transfer" "#Meeting\ncategory:: transfer\nattendees:: "]
+            ["Meeting: Transfer" "#meeting\ncategory:: transfer\nattendees:: "]
             ;; Training
-            ["Meeting: Training" "#Meeting\ncategory:: training\nattendees:: "]
+            ["Meeting: Training" "#meeting\ncategory:: training\nattendees:: "]
             ;; 1-1 面谈 (One on One)
-            ["Meeting: 1-1" "#Meeting\ncategory:: 1-1\ntopic:: "]
+            ["Meeting: 1-1" "#meeting\ncategory:: 1-1\ntopic:: "]
             ;; 5. 通用会议 (兜底)
-            ["Meeting: General" "#Meeting\ncategory:: "]
+            ["Meeting: General" "#meeting\ncategory:: "]
             ]
 
  ;; Enable collapsing blocks with titles but no children.
