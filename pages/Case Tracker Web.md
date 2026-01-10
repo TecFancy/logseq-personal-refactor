@@ -1,5 +1,6 @@
 type:: [[Project]]
 alias:: CTW
+company:: [[Resource Pro]] 
 status:: active
 
 - query-table:: true
