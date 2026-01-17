@@ -4,6 +4,7 @@ company:: [[Resource Pro]]
 status:: active
 
 - query-table:: true
+  collapsed:: true
   #+BEGIN_QUERY
   {:title "🗓️ CTW 任务追踪 (含父级引用 & 未来7天)"
   :query [:find (pull ?b [*])
@@ -35,13 +36,17 @@ status:: active
 - ## Important Information
 	- Sprint 周期：每周周三开始，两周后的周二结束。
 	- Deadline：很大可能延长到年底。
+- ## Attachments
+	- [Attribute.xlsx](../assets/Attribute_1768274813329_0.xlsx)
 - ## Useful Links
   id:: 695c74e5-041b-4718-8511-b4fe96571c3e
-	- [Bitbucket](https://bitbucket.org/rspcode/rsp.pt.casetracker.app/src/main/)
+	- [Bitbucket](https://bitbucket.org/rspcode/rsp.bpm.casetracker.app/src/main/)
 	- [Jira](https://rspproduct.atlassian.net/jira/software/c/projects/PTV2/boards/1252)
 	- [Confluence](https://rspproduct.atlassian.net/wiki/spaces/CTW/overview)
 	- [PRD](https://rspproduct.atlassian.net/wiki/x/CADEPw)
+	- [Microsoft Azure](https://portal.azure.com/#@resourcepro.onmicrosoft.com/resource/subscriptions/89246a81-7dd4-4665-9be9-8fe76418d7a9/resourceGroups/rsp-external/providers/Microsoft.Web/sites/CaseTracker/appServices)
 	- [Technology SharePoint](https://resourcepro.sharepoint.com/Tech/SitePages/Home.aspx?RootFolder=%2FTech%2FOperational%20Files%2FBPM%20Applications%2F03%20Case%20Tracker%2FCase%20Tracker%20Web%2FMeeting%20records&FolderCTID=0x0120009705814C52634E47819B79866756BC23&View=%7BC0AE9F1C%2D4FEE%2D4196%2D9154%2D81DF2220A9DA%7D)
+	- [Retrospectives](https://rspproduct.atlassian.net/wiki/spaces/PT/pages/396656655/Retrospectives?atlOrigin=eyJpIjoiYzgyZmUxZjI1NmQ5NDczZWJjNmEwODg0MzBkMjA0MDAiLCJwIjoiYyJ9)
 	- [Apex Components Library](http://rsp-nexusserver:8082/)
 - query-table:: true
   query-properties:: [:block :page]
