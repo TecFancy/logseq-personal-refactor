@@ -24,3 +24,4 @@ desc:: 代码片段
                                   (get-in h [:block/page :block/journal-day])) > result)) ;; 按日期倒序
   }
   #+END_QUERY
+-

@@ -47,6 +47,7 @@ status:: active
 	- [Microsoft Azure](https://portal.azure.com/#@resourcepro.onmicrosoft.com/resource/subscriptions/89246a81-7dd4-4665-9be9-8fe76418d7a9/resourceGroups/rsp-external/providers/Microsoft.Web/sites/CaseTracker/appServices)
 	- [Technology SharePoint](https://resourcepro.sharepoint.com/Tech/SitePages/Home.aspx?RootFolder=%2FTech%2FOperational%20Files%2FBPM%20Applications%2F03%20Case%20Tracker%2FCase%20Tracker%20Web%2FMeeting%20records&FolderCTID=0x0120009705814C52634E47819B79866756BC23&View=%7BC0AE9F1C%2D4FEE%2D4196%2D9154%2D81DF2220A9DA%7D)
 	- [Retrospectives](https://rspproduct.atlassian.net/wiki/spaces/PT/pages/396656655/Retrospectives?atlOrigin=eyJpIjoiYzgyZmUxZjI1NmQ5NDczZWJjNmEwODg0MzBkMjA0MDAiLCJwIjoiYyJ9)
+	- [Guide SDP](https://resourcepro.sharepoint.com/:w:/r/Tech/_layouts/15/Doc.aspx?sourcedoc=%7B1DE68DB8-25DA-4454-949D-38FD2EAE909B%7D&file=User%20Reference%20Guide_SDP%20CHANGE.docx&action=default&mobileredirect=true&wdOrigin=TEAMS-MAGLEV.null_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1769065105488&web=1)
 	- [Apex Components Library](http://rsp-nexusserver:8082/)
 - query-table:: true
   query-properties:: [:block :page]
